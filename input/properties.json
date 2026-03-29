@@ -1,0 +1,10 @@
+{
+  "valence":    0.7,
+  "arousal":    0.6,
+  "tempo":      128,
+  "pitch_root": 0,
+  "scale":      "major",
+  "octave":     4,
+  "duration":   10,
+  "instrument": 0
+}
